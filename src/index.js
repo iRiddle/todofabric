@@ -6,6 +6,8 @@ import { Customizer, mergeStyles } from "office-ui-fabric-react";
 import { FluentCustomizations } from "@uifabric/fluent-theme";
 import { initializeIcons } from "@uifabric/icons";
 
+import 'react-notifications/lib/notifications.css';
+
 import store from "./store";
 
 import App from "./App";
