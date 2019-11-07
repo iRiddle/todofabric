@@ -37,7 +37,6 @@ class App extends Component {
   onSave = () => {
     const { name, email, office, phone, job, img, editId } = this.state;
     const isValidEmail = validateEmail(email);
-    console.log(this.state);
     if (
       !name.length ||
       !email.length ||
