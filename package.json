@@ -7,7 +7,7 @@
     "@uifabric/fluent-theme": "^7.1.4",
     "date-fns": "^2.6.0",
     "faker": "^4.1.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "office-ui-fabric-react": "^7.56.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
